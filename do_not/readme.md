@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## 기만 금지 항목
 
-You can use the [editor on GitHub](https://github.com/areatmadm/chyumasa_rules/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. 어 이거 왜 못깸? 이런 것은 기만 처리
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
+2. 훈수는 가능하지만 훈수를 두는척 비웃으면 기만처리
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
 
-```markdown
-Syntax highlighted code block
+기만의 예시)
 
-# sans
-## sans
-### Header 3
+AAA:폭룡이거 어려워서 못하겠어요ㅠㅠ
 
-- Bulleted
-- List
+BBB:아 ㅋㅋㅋ 그게 힘드시구나 ㅋㅋㅋㅋㅋ 풉 ㅋㅋㅋㅋ 그거 이렇게하시면되여
 
-1. Numbered
-2. List
+ 
 
-**Bold** and _Italic_ and `Code` text
+기만이 아닌 예시)
 
-[Link](url) and ![Image](src)
-```
+AAA:폭룡이거 어려워서 못하겠어요ㅠㅠ
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+BBB:아... 그런경우에는 이렇게한번해보실래요?...
 
-### Jekyll Themes
+AAA:아 감사합니다 ㅎㅎ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/areatmadm/chyumasa_rules/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 
 
-### Support or Contact
+3. 성과 얘기할 때 코인수/플레이수 언급 절대 금지(타인, 본인 성과 모두)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 단위인정 취득 시에는 플레이 카운트 언급을 금지합니다.
+
+- 성과: 초견클에는 업로드 직후 2분이내 1회언급만 예외처리(성과에서 초견은 초견이라고 표시되기 때문)
+
+ 
+
+4. 노력보다 재능을 강조하면 기만처리
+
+4-1. "노오력" 등의 방식으로 비꼬면 기만
+
+ 
+
+5. 기만을 당할 수도 있을 것 같은 상대가 허락을 한 경우에는 예외.
+
+ 
+
+6. 업로드 성과 사진을 동시에 올린 경우 예외.(30초이내로 한정되며, 안심옵션 등의 이유로 업로드가 지연되는 경우에는 화질을 줄여주세요)
